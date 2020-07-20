@@ -1,11 +1,11 @@
 {
-  "title": "Stackbit Ampersand Theme",
-  "description": "Medium inspired blogging theme for Stackbit",
+  "title": "Amplitude Academia",
+  "description": "Plataforma de disseminação de conhecimento. Cursos, livros, aulas e artigos de diversos assuntos e contextos.",
   "layout_style": "grid",
-  "palette": "green",
+  "palette": "black",
   "header": {
     "type": "header",
-    "title": "Ampersand",
+    "title": "Amplitude Academia",
     "logo_img": "/images/amp.png",
     "has_nav": true,
     "nav_links": [
@@ -52,7 +52,7 @@
       {
         "type": "action",
         "label": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/AmpAcademia",
         "style": "icon",
         "icon_class": "fa-twitter",
         "new_window": true
