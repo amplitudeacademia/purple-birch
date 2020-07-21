@@ -38,4 +38,3 @@ form_fields:
 submit_label: Envie sua mensagem
 template: contact
 ---
-Digite neste campo para entrar em contato.
