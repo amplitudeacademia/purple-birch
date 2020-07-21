@@ -1,19 +1,19 @@
 ---
-title: Home
+title: Principal
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: Amplitude Academia é um espaço para o livre conhecimento. Com a
+  missão de fomentar e disseminar ideias, é uma plataforma colaborativa onde
+  autores podem disponibilizar seus livros, cursos e artigos, que são avaliados
+  por nossa curadoria e publicados periodicamente. Conteúdos do staff também
+  saem todos os meses para ajudar seu crescimento pessoal e profissional.
 intro_actions:
   - type: action
-    label: Learn More
-    url: /about
+    label: Leia mais
+    url: /sobre
     style: primary
   - type: action
-    label: Contact
-    url: /contact
+    label: Contato
+    url: /contato
     style: secondary
 template: home
 ---
