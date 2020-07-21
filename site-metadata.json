@@ -11,37 +11,51 @@
     "nav_links": [
       {
         "type": "action",
-        "label": "Home",
+        "label": "Principal",
         "url": "/",
         "style": "link"
       },
       {
         "type": "action",
-        "label": "About",
-        "url": "/about/",
+        "label": "Academia",
+        "url": "/academia/",
         "style": "link"
       },
       {
         "type": "action",
-        "label": "Style Guide",
-        "url": "/style-guide/",
+        "label": "Artigos",
+        "url": "/artigos/",
         "style": "link"
       },
       {
+        "style": "link",
+        "new_window": false,
         "type": "action",
-        "label": "Contact",
-        "url": "/contact/",
+        "label": "Livros",
+        "url": "/livros/"
+      },
+      {
+        "style": "link",
+        "new_window": false,
+        "type": "action",
+        "label": "Cursos",
+        "url": "/cursos/"
+      },
+      {
+        "type": "action",
+        "label": "Contato",
+        "url": "/contato/",
         "style": "link"
       }
     ]
   },
   "footer": {
     "type": "footer",
-    "content": "&copy; All rights reserved.",
+    "content": "&copy; Alguns direitos reservados.",
     "links": [
       {
         "type": "action",
-        "label": "Made with Stackbit",
+        "label": "Feito com Stackbit",
         "url": "https://www.stackbit.com",
         "style": "link",
         "new_window": true
@@ -64,34 +78,10 @@
         "style": "icon",
         "icon_class": "fa-instagram",
         "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "icon",
-        "icon_class": "fa-github",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "icon",
-        "icon_class": "fa-linkedin",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "style": "icon",
-        "icon_class": "fa-dev",
-        "new_window": true
       }
     ],
     "has_subscribe": true,
-    "subscribe_title": "Subscribe for new updates",
-    "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month."
+    "subscribe_title": "Inscreva-se para mais novidades!",
+    "subscribe_content": "Inscreva-se para receber e-mail com os novos artigos e outras publicações, todos os meses."
   }
 }
