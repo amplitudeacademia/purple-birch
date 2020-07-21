@@ -2,7 +2,7 @@
 title: Contato
 subtitle: Preencha os campos para que possamos saber quem é você, e escreva suas
   dúvidas ou sugestões.
-img_path: images/contact.jpg
+img_path: ""
 form_id: contactForm
 form_fields:
   - type: form_field
