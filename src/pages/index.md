@@ -8,7 +8,7 @@ intro_content: Amplitude Academia é um espaço para o livre conhecimento. Com a
 intro_actions:
   - type: action
     label: Leia mais
-    url: /academia
+    url: /academia/
     style: primary
 template: home
 ---
