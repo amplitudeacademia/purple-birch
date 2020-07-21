@@ -51,23 +51,8 @@
   },
   "footer": {
     "type": "footer",
-    "content": "&copy; Alguns direitos reservados. Feito com ",
-    "links": [
-      {
-        "type": "action",
-        "label": "Stackbit",
-        "url": "https://www.stackbit.com",
-        "style": "link",
-        "new_window": true
-      },
-      {
-        "style": "link",
-        "new_window": true,
-        "type": "action",
-        "label": "Netlify",
-        "url": "www.netlify.com"
-      }
-    ],
+    "content": "20019 - Amplitude Academia &copy; Alguns direitos reservados.",
+    "links": [],
     "has_social": true,
     "social_links": [
       {
