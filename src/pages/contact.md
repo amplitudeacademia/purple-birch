@@ -1,5 +1,5 @@
 ---
-title: Mantenha contato
+title: Contato
 subtitle: Preencha os campos para que possamos saber quem é você e escreva suas
   dúvidas ou sugestões.
 img_path: images/contact.jpg
