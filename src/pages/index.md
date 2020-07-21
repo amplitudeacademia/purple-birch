@@ -10,9 +10,5 @@ intro_actions:
     label: Leia mais
     url: /sobre
     style: primary
-  - type: action
-    label: Contato
-    url: /contato
-    style: secondary
 template: home
 ---
