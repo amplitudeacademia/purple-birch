@@ -1,9 +1,6 @@
 ---
-title: Style Guide
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+title: Livros
+subtitle: Todo o conteúdo relacionado a livros você pode ver aqui
 img_path: images/6.jpg
 template: page
 ---
