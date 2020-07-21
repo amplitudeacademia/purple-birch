@@ -72,7 +72,7 @@
         "new_window": true
       }
     ],
-    "has_subscribe": true,
+    "has_subscribe": false,
     "subscribe_title": "Inscreva-se para mais novidades!",
     "subscribe_content": "Faça a inscrição do seu e-mail para ser notificado sobre novos artigos e outras publicações, todos os meses."
   }
